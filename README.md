@@ -29,4 +29,8 @@ Add the plugin to your webpack config:
 For more information on the atomizer, visit the webpage:
 [yahoo/atomizer](https://github.com/yahoo/atomizer).
 
+## TODO
+
+- Figure out, how to inject a `[hash]` value into the atomic.css output.
+
 [atomic-loader]: https://github.com/tom76kimo/atomic-loader
