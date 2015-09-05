@@ -5,8 +5,9 @@ The code is mainly copied from [atomic-loader][atomic-loader].  Thank you Tom
 Wu for your work.
 
 I just believe that the solution as a Plugin is more suitable for a webpack
-configuration, as thegenerated atomic stylesheet file can then be handled as a
-webpack asset.
+configuration, as the generated atomic stylesheet file can then be handled as a
+webpack asset.  So, when you use, the webpack-dev-server, it gets served as
+well.
 
 ## Install
 ```
