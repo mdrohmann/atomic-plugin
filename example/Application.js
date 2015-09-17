@@ -5,7 +5,7 @@ var Body = require('./Body');
 var Application = React.createClass({
     render: function () {
         return (
-            <div className="T(0)">test</div>
+            <div className="T(0) C(blue)">test</div>
         );
     }
 });
